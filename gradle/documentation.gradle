@@ -7,7 +7,7 @@ gitPublish {
   // where to publish to (repo must exist)
   repoUri = 'https://github.com/springfox/springfox.git'
 
-  // branch will be created if it doesn't exist
+  // branch will be created if it doesn't exist //
   branch = 'gh-pages'
   
   preserve {
